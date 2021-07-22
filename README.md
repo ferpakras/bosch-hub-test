@@ -3,7 +3,7 @@
 
 ## Goal
 
-Create a web application called Bosch-hub used to search users and provide a details page with user and repository information. Keep it simple and follow the requirements.
+Create a web application called Bosch-hub thas is used to search users and provide a details page which contains the searched user information. Keep it simple and follow the requirements.
 
 
 ## Business Rules
